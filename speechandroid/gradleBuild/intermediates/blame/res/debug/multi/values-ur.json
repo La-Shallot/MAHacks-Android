@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\Owner\\speech\\speechandroid\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 210,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "C:\\Users\\Owner\\.android\\build-cache\\c00b44457448a4a9b2cef57524f07306b23bac12\\output\\res\\values-ur\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 247,
+                        "endColumn": 210,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 100,
+                    "endOffset": 412
+                },
+                "from": {
+                    "file": "C:\\Users\\Owner\\.android\\build-cache\\133026a45abbb2a2186f6ffe9c085125bc1e7cac\\output\\res\\values-ur\\values-ur.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]

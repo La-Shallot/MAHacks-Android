@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\speech\speechandroid\libs\libandroid_tensorflow_inference_java.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="54274525f1da90b7c6f81aca709b8c3d3621cdc2">
+        <dex dex="C:\Users\Owner\speech\speechandroid\gradleBuild\intermediates\pre-dexed\debug\libandroid_tensorflow_inference_java_4f11fd2f51ef6bbe4ed32a19e41afe35478ada44.jar" />
+    </item>
+
+</items>

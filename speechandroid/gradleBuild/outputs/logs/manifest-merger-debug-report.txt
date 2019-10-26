@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:18:1-44:12
+	package
+		ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:19:5-34
+	xmlns:android
+		ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:22:5-71
+	android:name
+		ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:22:22-68
+uses-sdk
+ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Owner\.android\build-cache\d725a089dec1178ffea1f6b01cd72c843897cc3a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Owner\.android\build-cache\2d48d536710936bb7045dcc538bbda5a25307b3c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Owner\.android\build-cache\fef14c997501c3fbc53ec82ca4da2c7eeb22be10\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Owner\.android\build-cache\99e7f70e9919de1c9355b28d07421eb6897b3457\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Owner\.android\build-cache\d18e0959261a5b89c8fca8c8b645dfd339b0c651\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Owner\.android\build-cache\3cbfe5474407f7bf835f0a798854d514309e1efa\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Owner\.android\build-cache\09e1e5ab9efc5972397974d78f16151930e85fa1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Owner\.android\build-cache\bde6396a90003e141f3bada115becf2d0d0fcfe4\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Owner\.android\build-cache\fc2a20078a8372c407981445aadee2e7fc52fc90\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.otaliastudios:cameraview:2.3.1] C:\Users\Owner\.android\build-cache\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\output\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Owner\.android\build-cache\f7d17fb68134500e68376cb42fea6f0df3897c5f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Owner\.android\build-cache\a0a76d0bf3ecf8197823fe179904262de6a1d936\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Owner\.android\build-cache\c00b44457448a4a9b2cef57524f07306b23bac12\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Owner\.android\build-cache\f72bdb06f2a80d8655405f8bcf9a3f3ad57d1c8c\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Owner\.android\build-cache\b6759d2543ada30ad216e82c6b5c1b6f6e693224\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Owner\.android\build-cache\597e011eb5e7935d5de543a49c2bbc9bc74e6a41\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Owner\.android\build-cache\1fe68a90b830fb839275274f9bcd0ca8eee554fa\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Owner\.android\build-cache\d5fcc789b3e4562489d7798141aaea4208f283d2\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Owner\.android\build-cache\074571ad29f39b7dba2cb1b3c66203263312c6e1\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Owner\.android\build-cache\36f34b49f32eb57b7193acabce93034f9551930d\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Owner\.android\build-cache\2093dd3c3598f0fb062b8137b106c4a70551ed8e\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Owner\.android\build-cache\445299c26c19cb56a468a10440aa8f0eb72ec210\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Owner\.android\build-cache\a3f4cc21a763053be6320cea3b3beb33f07f3282\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Owner\.android\build-cache\de86e7fd0e96c94eae35d9ae458349fef17ce3ee\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Owner\.android\build-cache\f803a111892fe9d401166e96ed4ca3f76e064a6a\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Owner\.android\build-cache\248f19e0213c2362205b70d595cbfb52f23ce718\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Owner\.android\build-cache\7ed2cb648a8154c0a0d67e2f7230eae3b40ae053\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Owner\.android\build-cache\fe7dd7d42599b80ed305df940b9bba8f7927a3e8\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Owner\.android\build-cache\bb478a2860dcafdab84bb0bb0b11559692f0dcc8\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Owner\.android\build-cache\133026a45abbb2a2186f6ffe9c085125bc1e7cac\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Owner\.android\build-cache\00c31003155b3782b1f913ae7de2379f78c22182\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Owner\.android\build-cache\64bf8bebfdba62762f950dc020181f49da2c8ff6\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Owner\.android\build-cache\4be098d9f392dbccdbd89bf0990b375efc73cb6e\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Owner\.android\build-cache\97cb03897cf8d50d522a537886edb7ea8718bcd7\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Owner\.android\build-cache\973383b7f6744f9fe05df00da8564ee38848a7c4\output\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Owner\.android\build-cache\ef51e0b720ce49bd8e141aa61258dec9bf0dbf8d\output\AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Owner\.android\build-cache\d725a089dec1178ffea1f6b01cd72c843897cc3a\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:26:9-38
+	android:minSdkVersion
+		ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:25:9-35
+application
+ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:28:5-42:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Owner\.android\build-cache\d725a089dec1178ffea1f6b01cd72c843897cc3a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Owner\.android\build-cache\2d48d536710936bb7045dcc538bbda5a25307b3c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Owner\.android\build-cache\fef14c997501c3fbc53ec82ca4da2c7eeb22be10\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Owner\.android\build-cache\99e7f70e9919de1c9355b28d07421eb6897b3457\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Owner\.android\build-cache\d18e0959261a5b89c8fca8c8b645dfd339b0c651\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Owner\.android\build-cache\3cbfe5474407f7bf835f0a798854d514309e1efa\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Owner\.android\build-cache\09e1e5ab9efc5972397974d78f16151930e85fa1\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Owner\.android\build-cache\bde6396a90003e141f3bada115becf2d0d0fcfe4\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Owner\.android\build-cache\fc2a20078a8372c407981445aadee2e7fc52fc90\output\AndroidManifest.xml:25:5-20
+MERGED from [com.otaliastudios:cameraview:2.3.1] C:\Users\Owner\.android\build-cache\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\output\AndroidManifest.xml:32:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Owner\.android\build-cache\a0a76d0bf3ecf8197823fe179904262de6a1d936\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Owner\.android\build-cache\c00b44457448a4a9b2cef57524f07306b23bac12\output\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\Owner\.android\build-cache\133026a45abbb2a2186f6ffe9c085125bc1e7cac\output\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Owner\.android\build-cache\64bf8bebfdba62762f950dc020181f49da2c8ff6\output\AndroidManifest.xml:22:5-23:19
+	android:label
+		ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:30:9-41
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Owner\.android\build-cache\133026a45abbb2a2186f6ffe9c085125bc1e7cac\output\AndroidManifest.xml:22:18-86
+	android:debuggable
+		ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:29:9-34
+	android:allowBackup
+		ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:28:18-44
+	android:icon
+		ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:31:9-45
+	android:theme
+		ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:32:9-45
+activity#org.tensorflow.demo.SpeechActivity
+ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:34:9-41:20
+	android:screenOrientation
+		ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:36:13-57
+	android:name
+		ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:34:19-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\Users\Owner\speech\speechandroid\AndroidManifest.xml:39:27-74
+uses-permission#android.permission.CAMERA
+ADDED from [com.otaliastudios:cameraview:2.3.1] C:\Users\Owner\.android\build-cache\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\output\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [com.otaliastudios:cameraview:2.3.1] C:\Users\Owner\.android\build-cache\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\output\AndroidManifest.xml:11:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.otaliastudios:cameraview:2.3.1] C:\Users\Owner\.android\build-cache\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\output\AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [com.otaliastudios:cameraview:2.3.1] C:\Users\Owner\.android\build-cache\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\output\AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [com.otaliastudios:cameraview:2.3.1] C:\Users\Owner\.android\build-cache\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\output\AndroidManifest.xml:20:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.otaliastudios:cameraview:2.3.1] C:\Users\Owner\.android\build-cache\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\output\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [com.otaliastudios:cameraview:2.3.1] C:\Users\Owner\.android\build-cache\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\output\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [com.otaliastudios:cameraview:2.3.1] C:\Users\Owner\.android\build-cache\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\output\AndroidManifest.xml:23:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [com.otaliastudios:cameraview:2.3.1] C:\Users\Owner\.android\build-cache\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\output\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.otaliastudios:cameraview:2.3.1] C:\Users\Owner\.android\build-cache\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\output\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.otaliastudios:cameraview:2.3.1] C:\Users\Owner\.android\build-cache\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\output\AndroidManifest.xml:26:9-53
+uses-feature#android.hardware.microphone
+ADDED from [com.otaliastudios:cameraview:2.3.1] C:\Users\Owner\.android\build-cache\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\output\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.otaliastudios:cameraview:2.3.1] C:\Users\Owner\.android\build-cache\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\output\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.otaliastudios:cameraview:2.3.1] C:\Users\Owner\.android\build-cache\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\output\AndroidManifest.xml:29:9-51
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Owner\.android\build-cache\c00b44457448a4a9b2cef57524f07306b23bac12\output\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Owner\.android\build-cache\c00b44457448a4a9b2cef57524f07306b23bac12\output\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Owner\.android\build-cache\c00b44457448a4a9b2cef57524f07306b23bac12\output\AndroidManifest.xml:24:13-58
