@@ -11,10 +11,6 @@ getProject().setBuildDir('gradleBuild')
 buildscript {
     repositories {
         jcenter()
-        maven {
-            url 'https://maven.google.com/'
-            name 'Google'
-        }
     }
 
     dependencies {
@@ -27,16 +23,6 @@ allprojects {
     repositories {
         jcenter()
 
-        maven {
-            url "https://jitpack.io"
-        }
-
-
-        apply plugin: 'maven'
-        maven {
-            url 'https://maven.google.com/'
-            name 'Google'
-        }
     }
 
 
@@ -96,5 +82,6 @@ dependencies {
     compile 'com.android.support:support-annotations:+'
     compile 'com.android.support:support-v4:25.1.1'
     compile 'com.android.support:appcompat-v7:25.1.1'
-    compile 'com.otaliastudios:cameraview:2.3.1'
+    compile 
+
 }

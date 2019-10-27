@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_info.png",
+        "source": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\res\\drawable-xxhdpi\\ic_action_info.png"
+    },
+    {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\Project\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\Project\\github\\speechandroid\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
@@ -22,5 +26,9 @@
     {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\Project\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_info.png",
         "source": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\Project\\github\\speechandroid\\res\\drawable-xxhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\res\\drawable-xxhdpi\\ic_launcher.png"
     }
 ]

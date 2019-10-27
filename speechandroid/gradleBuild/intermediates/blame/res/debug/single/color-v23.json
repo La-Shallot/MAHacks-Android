@@ -12,24 +12,36 @@
         "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\color-v23\\abc_tint_default.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\Project\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
         "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
     {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\Project\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
         "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\Project\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
         "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\color-v23\\abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\speech\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v23\\abc_tint_edittext.xml"
-    },
-    {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
         "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\speech\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
@@ -60,6 +72,14 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
         "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
@@ -84,8 +104,24 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\Project\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
         "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
@@ -114,6 +150,10 @@
     {
         "merged": "C:\\Users\\Owner\\speech\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\speech\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",

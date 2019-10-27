@@ -8,6 +8,14 @@
         "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "C:\\Users\\Owner\\speech\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },

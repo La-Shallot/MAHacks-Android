@@ -8,8 +8,24 @@
         "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\Project\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
         "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\Project\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
@@ -40,6 +56,10 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
         "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
@@ -56,12 +76,28 @@
         "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\Project\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
         "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
         "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\speech\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
@@ -100,6 +136,10 @@
         "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\Project\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
         "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
@@ -118,6 +158,10 @@
     {
         "merged": "C:\\Users\\Owner\\speech\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
