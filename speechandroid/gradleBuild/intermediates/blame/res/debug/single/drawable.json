@@ -24,12 +24,12 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\d725a089dec1178ffea1f6b01cd72c843897cc3a\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\chiachunfu\\.android\\build-cache\\5a06c4cb61ce6c5ecdd6044869069f4085946fa6\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
@@ -165,7 +165,7 @@
     },
     {
         "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\cameraview_focus_marker_outline.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\\output\\res\\drawable\\cameraview_focus_marker_outline.xml"
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\85d0d80dd6938d2576ba23a68115ef172bcc12a9\\output\\res\\drawable\\cameraview_focus_marker_outline.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
@@ -397,7 +397,7 @@
     },
     {
         "merged": "C:\\Users\\Owner\\MAHacks-Android\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\cameraview_focus_marker_fill.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\37ffc27b8f2bd0c0f8c5bfac64943569df8f08bd\\output\\res\\drawable\\cameraview_focus_marker_fill.xml"
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\85d0d80dd6938d2576ba23a68115ef172bcc12a9\\output\\res\\drawable\\cameraview_focus_marker_fill.xml"
     },
     {
         "merged": "C:\\Users\\chiachunfu\\Desktop\\INSIGHT\\github\\speechandroid\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
